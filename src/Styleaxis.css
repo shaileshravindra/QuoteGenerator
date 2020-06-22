@@ -1,0 +1,57 @@
+
+
+body {
+
+    
+    background: linear-gradient(to  left, #33ccff 0%, #ff0066 100%);
+
+}
+
+
+  .container {
+
+    width: 100%;
+    height: 100%;
+    position: fixed !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    font-size: 16px !important;
+  }
+
+
+  h1 {
+
+    text-align: center;
+    padding:20px;
+    width:80%;
+    margin: auto;
+    background-color: white;
+  }
+
+
+  .ui.card {
+
+    background-color: #8FBC8B;
+  }
+
+  .header {
+    
+    text-align: center;
+
+  }
+
+  .description {
+    
+    text-align: center;
+
+  }
+
+  .buttonstyle {
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width:100%;
+
+  }
